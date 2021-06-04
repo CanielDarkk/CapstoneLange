@@ -81,13 +81,12 @@
         android:layout_marginEnd="143dp"
         android:layout_marginRight="143dp"
         android:layout_marginBottom="370dp"
-        android:onClick="thankYou"
-        android:text="moretodolist"
+        android:onClick="moretodolist"
+        android:text="More to do lists"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:ignore="MissingConstraints" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:layout_width="wrap_content"

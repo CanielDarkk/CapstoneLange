@@ -70,7 +70,7 @@
         android:layout_marginRight="93dp"
         android:layout_marginBottom="453dp"
         android:gravity="center_horizontal"
-        android:text="Sponsored By - Serena Williams Wheaties"
+        android:text="Sponsored By - Usain Bolt"
         android:textColor="@color/black"
         android:textSize="12dp"
         app:layout_constraintBottom_toBottomOf="parent"

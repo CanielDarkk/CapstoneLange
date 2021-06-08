@@ -88,7 +88,7 @@
         android:layout_marginEnd="143dp"
         android:layout_marginRight="143dp"
         android:layout_marginBottom="370dp"
-        android:onClick="Congratulations"
+        android:onClick="congratulations"
         android:text="Congratulations!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

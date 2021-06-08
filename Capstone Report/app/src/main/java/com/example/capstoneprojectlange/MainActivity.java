@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void moretodolist(View view) {
-        Intent i = new Intent(this,moretodolist.class);
+        Intent i = new Intent(this,moretodolists.class);
         startActivity(i);
     }
 

@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CapstoneProjectLange">
+        <activity android:name=".Congratulations"></activity>
         <activity android:name=".moretodolists" />
         <activity android:name=".MainActivity">
             <intent-filter>

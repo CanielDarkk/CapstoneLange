@@ -14,26 +14,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
+
     public void moretodolist(View view) {
-        Intent i = new Intent(this,moretodolists.class);
+        Intent i = new Intent(this, moretodolists.class);
+        startActivity(i);
+    }
+
+    public void Congratulations(View view) {
+        Intent i = new Intent(this,Congratulations.class);
         startActivity(i);
     }
 
